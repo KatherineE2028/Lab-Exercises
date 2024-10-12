@@ -1,0 +1,13 @@
+name = input("Enter your name: ")
+
+number_input = input("Enter a number: ")
+try:
+    number = float(number_input)  
+except ValueError:
+    print("Please enter a valid number.")
+else:
+    squared_number = number ** 2
+
+    print(f"Hello, {name}! The square of {number} is {squared_number}.")
+
+
