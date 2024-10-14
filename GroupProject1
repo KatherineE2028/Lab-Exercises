@@ -1,4 +1,9 @@
-name = input("Enter your name: ")
+while True:    
+    name = input("Enter your name: ")
+    if name:
+        break
+    else:
+        print("Error, please enter valid name")
 
 number_input = input("Enter a number: ")
 try:
