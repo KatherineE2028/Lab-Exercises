@@ -6,4 +6,4 @@ Lab 6
 #If the conversion is successful, the program calculates the square of the number. 
 #Finally, it outputs a message that includes the user's name and result.  
 #The program outputs the name, original number, and the number squared.
-#Team members: Katie Erfort, Tommy Smith, Ya Wei Lin
+#Team members: Katherine Erfort, Thomas Smith, Ya Wei Lin
